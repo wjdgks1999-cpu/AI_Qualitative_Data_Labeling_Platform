@@ -1,0 +1,5 @@
+# -*- coding: utf-8 -*-
+-r requirements-validation.txt
+mysql-connector-python>=9,<10
+# PyKoSpacing, hanspell, KoNLPy는 모형·Java·Python 호환성을 별도로 확인해야 합니다.
+# 이 명세만 설치해도 전체 전처리 실행 환경이 완성되는 것은 아닙니다.
